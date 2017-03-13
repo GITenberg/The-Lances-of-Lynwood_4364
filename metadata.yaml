@@ -1,5 +1,8 @@
 _repo: The-Lances-of-Lynwood_4364
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Yonge, Charlotte M. (Charlotte Mary)
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/945
     wikipedia: http://en.wikipedia.org/wiki/Charlotte_Mary_Yonge
 description: A story of Edward, the Black Prince.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/4364#The-Lances-of-Lynwood
 gutenberg_bookshelf: Historical Fiction
 gutenberg_issued: '2003-08-01'
 gutenberg_type: Text
